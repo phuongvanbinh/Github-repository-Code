@@ -9,4 +9,4 @@
          <p>php artisan db:seed</p>
     </div>
 </div>
-<p><b>Web: localhost/example</b><p>
+<p><b>Web:</b> localhost/example<p>
