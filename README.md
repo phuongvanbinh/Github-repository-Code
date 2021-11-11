@@ -1,5 +1,5 @@
-Run : composer install
-     ./vendor/bin/sail up
-     php artisan migrate 
-     php artisan db:seed
-Web: localhost/example
+<p>Run : composer install</p>
+     <p>./vendor/bin/sail up</p>
+     <p>php artisan migrate </p>
+     <p>php artisan db:seed</p>
+<p>Web: localhost/example<p>
