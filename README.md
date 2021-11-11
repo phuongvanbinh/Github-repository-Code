@@ -1,4 +1,4 @@
-<div style="display: flex; align-items:top">
+<div style="display: flex;">
     <div>
         <p>Run : </p>
     </div>
