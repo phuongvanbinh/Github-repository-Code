@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: top">
     <div>
-        <p>Run : </p>
+        <p><b>Run : </b></p>
     </div>
     <div style="margin-left: 10px">
           <p>composer install</p>
@@ -9,4 +9,4 @@
          <p>php artisan db:seed</p>
     </div>
 </div>
-<p>Web: localhost/example<p>
+<p><b>Web: localhost/example</b><p>
