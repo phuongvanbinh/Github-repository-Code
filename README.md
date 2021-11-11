@@ -1,8 +1,8 @@
-<div style="display: flex;">
+<div style="display: flex; align-items: top">
     <div>
         <p>Run : </p>
     </div>
-    <div>
+    <div style="margin-left: 10px">
           <p>composer install</p>
          <p>./vendor/bin/sail up</p>
          <p>php artisan migrate </p>
